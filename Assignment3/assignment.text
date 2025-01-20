@@ -1,0 +1,42 @@
+1. Switch Statement
+
+Task 1:
+
+Write a program that uses a switch statement to implement a basic calculator. It should take two numbers and an operator as input and perform the corresponding operation.
+
+Task 2:
+
+Create a program that accepts a number representing a day of the week (1-7) and uses a switch statement to print the corresponding day's name. Include handling for invalid inputs.
+
+
+2. While Loop
+
+Task 1:
+
+Write a program that calculates the sum of digits of a given integer using a while loop.
+
+Task 2:
+
+Develop a program to print all even numbers between 1 and 20 using a while loop.
+
+
+3. For Loop
+
+Task 1:
+
+Write a program to generate the multiplication table of a number up to 10 using a for loop.
+
+Task 2:
+
+Implement a program to calculate the factorial of a given number using a for loop.
+
+
+4. Class and Object
+
+Task 1:
+
+Create a class Student with attributes like name, rollNumber, and marks. Include methods to display the student's details and calculate their grade based on their marks.
+
+Task 2:
+
+Define a class BankAccount with attributes like accountNumber, accountHolder, and balance. Add methods for depositing, withdrawing, and checking the balance. Demonstrate these functionalities in a program.
